@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<UserSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Window>
+    <X>0</X>
+    <Y>0</Y>
+    <Width>1000</Width>
+    <Height>720</Height>
+  </Window>
+  <View>
+    <SettingsPaneVisible>true</SettingsPaneVisible>
+    <TuningPaneVisible>true</TuningPaneVisible>
+  </View>
+  <CommonDirectoryPath>C:\Users\k1602\OneDrive\ドキュメント\github\noidkun_plus\movie</CommonDirectoryPath>
+  <TextDirectoryPath>C:\Users\k1602\OneDrive\ドキュメント\github\noidkun_plus\movie</TextDirectoryPath>
+  <KanaDirectoryPath>C:\Users\k1602\OneDrive\ドキュメント</KanaDirectoryPath>
+  <WaveDirectoryPath>C:\Users\k1602\OneDrive\デスクトップ</WaveDirectoryPath>
+  <TextFormat>
+    <WordWrap>true</WordWrap>
+    <ForeColor />
+    <FontFamilyName>MS UI Gothic</FontFamilyName>
+    <Size>9</Size>
+    <Style>Regular</Style>
+    <Unit>Point</Unit>
+    <GdiCharSet>128</GdiCharSet>
+    <GdiVerticalFont>false</GdiVerticalFont>
+  </TextFormat>
+  <Find>
+    <Target>Text</Target>
+    <Logic>And</Logic>
+    <Match>Partial</Match>
+    <PageSize>100</PageSize>
+  </Find>
+  <VoiceSamplePerSec>22050</VoiceSamplePerSec>
+  <DbsPath>C:\Program Files (x86)\AHS\VOICEROID+\SeikaEX\voice</DbsPath>
+  <LangPath>C:\Program Files (x86)\AHS\VOICEROID+\SeikaEX\lang</LangPath>
+  <SoundOutput>
+    <SamplePerSec>22050</SamplePerSec>
+    <DataFormat>AIAUDIOTYPE_PCM_16</DataFormat>
+    <FileHeader>true</FileHeader>
+    <SaveText>true</SaveText>
+    <UsePostProcess>false</UsePostProcess>
+    <PostProcess />
+    <DeviceDescriptor />
+  </SoundOutput>
+  <KanaMode>AIKANA</KanaMode>
+  <IgnoredVoiceNames />
+  <SelectedVoiceName>seika_22</SelectedVoiceName>
+  <UserDic>
+    <WordDicEnabled>true</WordDicEnabled>
+    <PhraseDicEnabled>true</PhraseDicEnabled>
+    <SymbolDicEnabled>true</SymbolDicEnabled>
+    <WordDicPath>C:\Users\k1602\OneDrive\ドキュメント\VOICEROID＋ 標準語\単語辞書\user.wdic</WordDicPath>
+    <PhraseDicPath>C:\Users\k1602\OneDrive\ドキュメント\VOICEROID＋ 標準語\フレーズ辞書\user.pdic</PhraseDicPath>
+    <SymbolDicPath>C:\Users\k1602\OneDrive\ドキュメント\VOICEROID＋ 標準語\記号ポーズ辞書\user.sdic</SymbolDicPath>
+  </UserDic>
+  <MasterVolume>1</MasterVolume>
+  <BeginPause>0</BeginPause>
+  <TermPause>0</TermPause>
+  <HandleNewLineAsSentenceEnd>true</HandleNewLineAsSentenceEnd>
+  <UseCommonVoiceSettings>true</UseCommonVoiceSettings>
+  <CommonVoice>
+    <Volume>2</Volume>
+    <Speed>1.4</Speed>
+    <Pitch>1</Pitch>
+    <Emphasis>1.2</Emphasis>
+    <MiddlePause>150</MiddlePause>
+    <LongPause>370</LongPause>
+    <SentencePause>800</SentencePause>
+  </CommonVoice>
+  <Voice />
+  <Jeita>
+    <FemaleVoiceName />
+    <MaleVoiceName />
+    <Sex>F</Sex>
+    <Volume>7</Volume>
+    <Speed>5</Speed>
+    <Pitch>3</Pitch>
+    <Emphasis>2</Emphasis>
+    <MiddlePause>100</MiddlePause>
+    <LongPause>300</LongPause>
+    <SentencePause>800</SentencePause>
+  </Jeita>
+  <ImportWordDic>
+    <SourceDirectory />
+    <DestinationDirectory />
+    <TextColumn>1</TextColumn>
+    <YomiColumn>2</YomiColumn>
+    <FirstRow>1</FirstRow>
+    <LastRow>0</LastRow>
+    <Delimiter>Comma</Delimiter>
+    <Hinshi>NounVerbal</Hinshi>
+    <Cost>2000</Cost>
+    <FileConflictOption>Overwrite</FileConflictOption>
+    <EntryConflictOption>Confirm</EntryConflictOption>
+  </ImportWordDic>
+  <BatchSaveWave>
+    <SourceDirectory />
+    <DestinationDirectory />
+    <BatchMode>TextToWave</BatchMode>
+    <TextFilePattern>*.txt</TextFilePattern>
+    <KanaFilePattern>*.kana</KanaFilePattern>
+    <JeitaFilePattern>*.jeita</JeitaFilePattern>
+    <FileConflictOption>Confirm</FileConflictOption>
+  </BatchSaveWave>
+  <ExternalSounds />
+</UserSettings>
